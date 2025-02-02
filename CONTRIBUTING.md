@@ -23,14 +23,6 @@ $ yarn build
 $ yarn start
 ```
 
-## Testing
-
-With the development server running:
-
-```sh
-$ yarn cypress:run
-```
-
 ## Linting
 
 ```sh

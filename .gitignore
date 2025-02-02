@@ -5,6 +5,3 @@ site/data/webpack.json
 yarn-error.log
 .netlify/
 .hugo_build.lock
-
-cypress/videos
-cypress/screenshots
