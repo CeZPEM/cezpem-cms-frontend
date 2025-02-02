@@ -1,8 +1,8 @@
 backend:
-  name: github
-  repo: CeZPEM/cezpem-cms-frontend
-  branch: dev
-#  publish_mode: editorial_workflow
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
