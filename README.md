@@ -1,8 +1,9 @@
 # CEZPEM - CMS - Frontend
 
-[![Netlify Status - dev](https://api.netlify.com/api/v1/badges/c4b9fee5-19e8-4ce3-bc80-7b5a78cd54a9/deploy-status/?branch=main)](https://app.netlify.com/sites/devcezpem/deploys)
 
-[![Netlify Status - main](https://api.netlify.com/api/v1/badges/c4b9fee5-19e8-4ce3-bc80-7b5a78cd54a9/deploy-status/?branch=dev)](https://app.netlify.com/sites/devcezpem/deploys)
+[![Netlify Status - dev](https://api.netlify.com/api/v1/badges/43e86ce0-ccff-4e1c-a8e0-413d2a85d2fd/deploy-status/?branch=main)](https://app.netlify.com/sites/devcezpem/deploys)
+
+[![Netlify Status - main](https://api.netlify.com/api/v1/badges/43e86ce0-ccff-4e1c-a8e0-413d2a85d2fd/deploy-status/?branch=dev)](https://app.netlify.com/sites/devcezpem/deploys)
 
 **Centro Zoia Prestes de Educação Multidisciplinar**  
 Frente de massas de educação do coletivo [@soberana.tv](https://soberana.tv).
