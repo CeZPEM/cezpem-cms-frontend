@@ -10,7 +10,7 @@ Acesse o último deployment em: [cezpem.netlify.app](https://cezpem.netlify.app)
 
 ![Status do Netlify - branch main](https://api.netlify.com/api/v1/badges/43e86ce0-ccff-4e1c-a8e0-413d2a85d2fd/deploy-status/?branch=main)
 
-Confira mais detalhes dos deployments em: [Netlify Deploys](https://app.netlify.com/sites/cezpem/deploys)
+Mais detalhes dos deployments aqui: [Netlify Deploys](https://app.netlify.com/sites/cezpem/deploys)
 
 ## 📌 Sobre o projeto  
 
