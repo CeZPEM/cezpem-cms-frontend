@@ -1,3 +1,27 @@
+# CEZPEM - CMS - Frontend
+
+[![Netlify Status - dev](https://api.netlify.com/api/v1/badges/c4b9fee5-19e8-4ce3-bc80-7b5a78cd54a9/deploy-status/?branch=main)](https://app.netlify.com/sites/devcezpem/deploys)
+
+[![Netlify Status - main](https://api.netlify.com/api/v1/badges/c4b9fee5-19e8-4ce3-bc80-7b5a78cd54a9/deploy-status/?branch=dev)](https://app.netlify.com/sites/devcezpem/deploys)
+
+**Centro Zoia Prestes de Educação Multidisciplinar**  
+Frente de massas de educação do coletivo [@soberana.tv](https://soberana.tv).
+
+## Sobre o projeto
+Este repositório contém o código-fonte do frontend do [CeZPEM.com.br](https://cezpem.com.br).
+
+## Links
+- Gerenciador de conteudo: https://decapcms.org/
+- Framework para criar o site: https://gohugo.io/
+- Tarefas: https://cezpem.atlassian.net/
+
+## Contribuindo
+1. Certifique-se de ter permissão para criar branches neste repositório.  
+2. Crie uma branch para sua funcionalidade ou correção: `git checkout -b minha-nova-funcionalidade`.  
+3. Realize as alterações necessárias no código.  
+4. Envie suas alterações para o repositório remoto: `git push origin minha-nova-funcionalidade`.  
+5. Abra um pull request para revisão e aprovação.
+
 # Hugo template for Decap CMS with Netlify Identity
 
 This is a small business template built with [Hugo](https://gohugo.io) and [Decap CMS](https://github.com/decaporg/decap-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
